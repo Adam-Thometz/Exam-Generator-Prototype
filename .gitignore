@@ -1,0 +1,6 @@
+client/playground
+client/node_modules
+
+server/secret.py
+server/env
+server/__pycache__
